@@ -8,7 +8,8 @@ This project is about studying how hotels are booked by guests considering the d
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Python</b>
+- <b>Powershell</b> 
 - <b>Microsoft Excel</b>
 
 <h2>Environments Used </h2>
