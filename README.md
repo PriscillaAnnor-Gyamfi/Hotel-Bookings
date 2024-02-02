@@ -1,4 +1,4 @@
-<h1>Hotel Booking Project</h1>
+<h1>Hotel Bookings Project</h1>
 
 
 <h2>Description</h2>
