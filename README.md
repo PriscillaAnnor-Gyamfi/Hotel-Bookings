@@ -37,9 +37,10 @@ Detailed Information of Dataset:  <br/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" img src = "https://imgur.com/wA4x1n3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL945Ga.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> img src="https://imgur.com/wA4x1n3"
 <br />
-<br />
+ <br />
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
