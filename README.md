@@ -40,15 +40,11 @@ cont'd:  <br/>
 <img src="https://i.imgur.com/wA4x1n3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Summary Description of data:  <br/>
 <img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Dealing with Missing Values:  <br/>
+Finding Missing Values and Dealing with them:  <br/>
 <img src="https://i.imgur.com/DP68035.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
