@@ -21,7 +21,7 @@ This project is about studying how hotels are booked by guests considering the d
 
 <p align="center">
 Import Libraries: <br/>
-<img src="https://imgur.com/utndHx8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/utndHx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Read in Dataset:  <br/>
