@@ -25,15 +25,15 @@ Import Libraries: <br/>
 <br />
 <br />
 Read in Dataset:  <br/>
-<img src="https://imgur.com/l8VGHSy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l8VGHSy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Display first 5 rows of dataset: <br/>
-<img src="https://imgur.com/C8hQ21L" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C8hQ21L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Detailed Information of Dataset:  <br/>
-<img src="https://imgur.com/t48KLR1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t48KLR1.png" img src="https://i.imgur.com/wA4x1n3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
