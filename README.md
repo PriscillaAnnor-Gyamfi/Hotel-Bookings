@@ -4,16 +4,23 @@
 
 <h2>Problem Statement</h2>
 Understanding and Improving Hotel Booking Processes:
-Despite the significance of hotel bookings in the hospitality industry, challenges persist in optimizing booking procedures to enhance efficiency and guest satisfaction. This project aims to investigate factors influencing hotel bookings, such as booking patterns, guest demographics, and cancellation rates, to identify opportunities for streamlining the booking process and improving overall guest experiences. By leveraging data-driven insights, this study seeks to address key issues and implement strategies that enhance booking procedures and maximize hotel revenue.
+Despite the significance of hotel bookings in the hospitality industry, challenges persist in optimizing booking procedures to enhance efficiency and guest satisfaction. This project aims to investigate factors influencing hotel bookings, such as hotel type, booking patterns, guest demographics, and cancellation rates, to identify opportunities for streamlining the booking process and improving overall guest experiences. By leveraging data-driven insights, this study seeks to address key issues and implement strategies that enhance booking procedures and maximize hotel revenue.
 
 
 
 <h2>Key Findings</h2>
 
+- <b>Hotel Type: The City hotel is patronized the most as compared to the Resort hotel with a total bookings of 79,330. Unfornately the City hotels recorded the highest cancelations as compared to the Resort 
+     hotel.</b>
 - <b>Peak Booking Periods: August has the peak booking period with a total 13,877 bookings followed by July and May. We can attribute these specific months to the fact that they make up the summer season and 
      people travel a lot for vacation during the summer. </b>
-- <b>Demographic Preferences: Portugal is the country with the most guests bookings followed by Great Britain, France, Spain and Germany </b>
-- <b>Cancellation Rates: Most bookings were made with no deposits contributing to the high number of cancellation.</b>
+- <b>Demographic Preferences: We recorded about 28.6% of total guests were from Portugal followed by Great Britain, France, Spain and Germany. We can conclude that, most guests lodging the hotel were from 
+     Europe</b>
+- <b>Market Segments Patronage: The Online TA (Travel Agents) segment is recognized as the segment with the highest patronage .</b>
+- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal paid the highest Average Daily Rate of $5,400 with no refund in a City hotel.</b>
+- <b>Cancellation Rates: Most bookings were made with no deposits contributing to the high number of cancellation.Deposits serve as a guarantee that guests are committed to their reservations.</b>
+- <b>Customer Retention: 3.19% of total guests bookings are recognized as repeated guests. This reveals that,majority of the bookings are made by first time guests or customers.</b>
+ 
  
 
 
