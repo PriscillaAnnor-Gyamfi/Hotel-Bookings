@@ -10,7 +10,7 @@ Despite the significance of hotel bookings in the hospitality industry, challeng
 
 <h2>Key Findings</h2>
 
-- <b>Hotel Type: The City hotel is patronized the most as compared to the Resort hotel with a total bookings of 79,330. Unfornately the City hotels recorded the highest cancelations as compared to the Resort 
+- <b>Hotel Type: The City hotel is patronized the most as compared to the Resort hotel with a total bookings of 79,330. Unfortunately,the City hotels recorded the highest cancelations as compared to the Resort 
      hotel.</b>
 - <b>Peak Booking Periods: August has the peak booking period with a total 13,877 bookings followed by July and May. We can attribute these specific months to the fact that they make up the summer season and 
      people travel a lot for vacation during the summer. </b>
