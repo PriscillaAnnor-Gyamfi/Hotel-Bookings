@@ -10,16 +10,15 @@ Despite the significance of hotel bookings in the hospitality industry, challeng
 
 <h2>Key Findings</h2>
 
-- <b>Hotel Type: The City hotel is patronized the most as compared to the Resort hotel with a total bookings of 79,330. Unfortunately,the City hotels recorded the highest cancelations as compared to the Resort 
-     hotel.</b>
-- <b>Peak Booking Periods: August has the peak booking period with a total 13,877 bookings followed by July and May. We can attribute these specific months to the fact that they make up the summer season and 
-     people travel a lot for vacation during the summer. </b>
-- <b>Demographic Preferences: We recorded about 28.6% of total guests were from Portugal followed by Great Britain, France, Spain and Germany. We can conclude that, most guests lodging the hotel were from 
-     Europe</b>
-- <b>Market Segments/Booking channels: A total of 56,477 representing 47.3% of the overall total bookings were made online through Travel Agencies (Online TA) </b>
-- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal paid the highest Average Daily Rate of $5,400 with no refund in a City hotel.</b>
-- <b>Cancellation Rates: Most bookings were made with no deposits contributing to the high number of cancellation.Deposits serve as a guarantee that guests are committed to their reservations.</b>
-- <b>Customer Retention: 3.19% of total guests bookings are recognized as repeated guests. This reveals that,majority of the bookings are made by first time guests or customers.</b>
+- <b>Hotel Type:  The City hotel receives the highest patronage, totaling 79,330 bookings, surpassing the Resort hotel. However, City hotels also experienced the highest number of cancellations compared to the 
+     Resort hotel.</b>
+- <b>Peak Booking Periods:August emerges as the peak booking period with 13,877 bookings, followed by July and May. These months coincide with the summer season, a time when vacation travel is prevalent. </b>
+- <b>Demographic Preferences:Approximately 28.6% of all guests originated from Portugal, followed by Great Britain, France, Spain, and Germany. This suggests that the majority of hotel guests hail from European 
+     countries.</b>
+- <b>Market Segments/Booking channels: Online Travel Agencies (OTAs) accounted for 47.3% of total bookings, amounting to 56,477 reservations. </b>
+- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal recorded the highest Average Daily Rate of $5,400 at a City hotel, without eligibility for a refund.</b>
+- <b>Cancellation Rates: The absence of deposits for most bookings contributed to a significant number of cancellations. Deposits serve as a commitment indicator for guests to honor their reservations.</b>
+- <b>Customer Retention: Repeated guests comprise only 3.19% of total bookings, indicating that the majority of reservations are made by first-time guests or customers.</b>
  
  
 
