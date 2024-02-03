@@ -16,7 +16,7 @@ Despite the significance of hotel bookings in the hospitality industry, challeng
      people travel a lot for vacation during the summer. </b>
 - <b>Demographic Preferences: We recorded about 28.6% of total guests were from Portugal followed by Great Britain, France, Spain and Germany. We can conclude that, most guests lodging the hotel were from 
      Europe</b>
-- <b>Market Segments Patronage: The Online TA (Travel Agents) segment is recognized as the segment with the highest patronage .</b>
+- <b>Market Segments/Booking channels: A total of 56,477 representing 47.3% of the overall total bookings were made online through Travel Agencies (Online TA) </b>
 - <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal paid the highest Average Daily Rate of $5,400 with no refund in a City hotel.</b>
 - <b>Cancellation Rates: Most bookings were made with no deposits contributing to the high number of cancellation.Deposits serve as a guarantee that guests are committed to their reservations.</b>
 - <b>Customer Retention: 3.19% of total guests bookings are recognized as repeated guests. This reveals that,majority of the bookings are made by first time guests or customers.</b>
