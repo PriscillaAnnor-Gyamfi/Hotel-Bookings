@@ -38,16 +38,36 @@ Detailed Information of Dataset:  <br/>
 <br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> img src="https://imgur.com/wA4x1n3"
 <br />
  <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+cont'd:  <br/>
+<img src="https://i.imgur.com/wA4x1n3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Summary Description of data:  <br/>
+<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Dealing with Missing Values:  <br/>
+<img src="https://i.imgur.com/DP68035.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <!--
  ```diff
