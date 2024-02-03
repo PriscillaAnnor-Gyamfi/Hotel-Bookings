@@ -25,11 +25,18 @@ Despite the significance of hotel bookings in the hospitality industry, challeng
 
 <h2>Recommendations</h2>
 
-- <b>Manhattan Neighborhood Group: With the highest number of listings (21,661), representing 44% of the total listings in the dataset, investing in properties in Manhattan neighborhoods could offer a significant market opportunity. Consider focusing on areas within Manhattan to maximize potential returns.Manhattan neighbourhood group is shown to have the highest listing of 21,661 signifying 44% of the entire 47,431 listings recorded in the dataset</b>
-- <b>Brooklyn - Williamsburg: The neighborhood of Williamsburg in the Brooklyn neighborhood group generated the highest revenue ($12,389,011). This indicates a strong demand for accommodations in this area. Consider exploring investment opportunities in Williamsburg, Brooklyn, to capitalize on its revenue-generating potential.</b>
-- <b>Preferred Room Type - Entire Home/Apt: The most preferred room type among Airbnb guests was the entire home/apartment. Tailoring listings to offer entire homes or apartments could attract more bookings and potentially increase revenue. Ensure that properties listed offer amenities and features that align with the preferences of guests seeking entire home/apartment accommodations.</b>
-
-<b>In summary, based on the findings, data-driven recommendations include focusing on investing in Manhattan neighborhoods, particularly those with high listing counts, exploring investment opportunities in Williamsburg, Brooklyn, and prioritizing the listing of entire home/apartment accommodations to cater to guest preferences and maximize revenue potential.<b>
+- <b>Cancellation Management Strategies: Implement measures to mitigate cancellations, particularly for City hotels, such as introducing flexible cancellation policies or requiring deposits for bookings to 
+     ensure commitment from guests.</b>
+- <b>Seasonal Pricing Strategy: Capitalize on peak booking periods in August, July, and May by implementing dynamic pricing strategies to maximize revenue during high-demand seasons.</b>
+- <b>Targeted Marketing Campaigns: Leverage demographic preferences to tailor marketing efforts towards European countries, focusing on promotions and offers that appeal to guests from Portugal, Great Britain, 
+     France, Spain, and Germany.</b>
+- <b>Enhanced Online Presence: Strengthen partnerships with Online Travel Agencies (OTAs) to further penetrate the online booking market segment, optimizing visibility and accessibility for potential guests.</b>
+- <b>Customer Loyalty Programs: Develop initiatives to increase customer retention, such as loyalty programs or personalized offers for repeated guests, to foster long-term relationships and encourage repeat 
+     bookings.</b>
+- <b>Review Pricing Strategy: Evaluate the Average Daily Rate (ADR) and pricing structure to ensure competitiveness within the market while maintaining profitability, considering factors such as demand trends 
+     and guest preferences.</b>
+- <b>Optimization of Room Allocation: Allocate resources and prioritize inventory management strategies to accommodate fluctuations in demand during peak booking periods, ensuring efficient utilization of hotel 
+     facilities and maximizing revenue potential.<b>
  
 
 <br />
@@ -46,51 +53,28 @@ Despite the significance of hotel bookings in the hospitality industry, challeng
 - <b>Jupyter Notebook</b> 
 - <b>Windows 10</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Graphical Representations of some Key findings:</h2>
 
-<h2>Program walk-through:</h2>
+
 
 <p align="center">
-Import Libraries: <br/>
-<img src="https://i.imgur.com/utndHx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+<img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Read in Dataset:  <br/>
-<img src="https://i.imgur.com/l8VGHSy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Display first 5 rows of dataset: <br/>
-<img src="https://i.imgur.com/C8hQ21L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Market Segments: <br/>
+<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Detailed Information of Dataset:  <br/>
-<img src="https://i.imgur.com/t48KLR1.png" img src="https://i.imgur.com/wA4x1n3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Hotel Types and Cancellations:  <br/>
+<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-cont'd:  <br/>
-<img src="https://i.imgur.com/wA4x1n3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Summary Description of data:  <br/>
-<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Finding Missing Values and Dealing with them:  <br/>
-<img src="https://i.imgur.com/DP68035.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/Vg4ceRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 <!--
  ```diff
