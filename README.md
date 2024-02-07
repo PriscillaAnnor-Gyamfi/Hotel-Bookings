@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://www.cleanpng.com/png-online-hotel-reservations-travel-uzungl-booking-5941103/download-png.html" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://5.imimg.com/data5/SELLER/Default/2021/8/WD/NT/OF/29712069/hotel-reservation-serviices-500x500.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
