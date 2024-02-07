@@ -1,5 +1,11 @@
 <h1>Hotel Bookings Project</h1>
 
+<p align="center">
+ <br/>
+<img src="https://www.cleanpng.com/png-online-hotel-reservations-travel-uzungl-booking-5941103/download-png.html" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 <h2>Problem Statement</h2>
